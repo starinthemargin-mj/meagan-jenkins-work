@@ -394,7 +394,7 @@ export const courses: Course[] = [
     company: 'Protenus',
     about:
       'A single course in a larger Master Class Series that teaches those involved in drug diversion surveillance how to approach their programs and conduct effective investigations. Learners explore the proactive approach to healthcare safety, including the use of AI in the Healthcare Compliance Analytics Model to identify and manage drug diversion incidents while safeguarding patients and employees.',
-    riseUrl: 'https://mjenkins-portfolio.s3.us-east-2.amazonaws.com/an-introduction-to-drug-diversion-surveillance/index.html',
+    riseUrl: 'courses/drug-diversion/index.html',
     objectives: [
       'Analyze different models of drug diversion surveillance, including the proactive Healthcare Compliance Analytics (HCA) Model.',
       'Explore the role of AI in adopting the HCA Model.',
